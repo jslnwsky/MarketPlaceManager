@@ -1,0 +1,38 @@
+# Node
+node_modules/
+*.log
+logs/
+logs/**
+*.pid
+*.pid.lock
+
+# Build outputs
+build/
+dist/
+.cache/
+.vite/
+node_modules/.vite/
+coverage/
+.next/
+out/
+
+# Environment files
+.env
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor
+.vscode/
+.idea/
+*.iml
+
+# Misc
+*.local
+*.swp
+
+# Puppeteer/diagnostics (local)
+**/.puppeteer_profile/
+**/.diagnostics/
