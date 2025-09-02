@@ -1,0 +1,24 @@
+
+> client@0.0.0 dev
+> vite
+
+
+  VITE v5.4.19  ready in 202 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+6:34:44 PM [vite] hmr update /src/pages/Dashboard.jsx
+6:37:02 PM [vite] hmr update /src/pages/Dashboard.jsx
+6:42:26 PM [vite] hmr update /src/pages/Dashboard.jsx
+4:15:58 PM [vite] hmr update /src/pages/Dashboard.jsx
+4:17:24 PM [vite] hmr update /src/pages/Dashboard.jsx
+5:37:17 PM [vite] hmr update /src/pages/Dashboard.jsx
+8:48:12 PM [vite] hmr update /src/pages/Dashboard.jsx
+8:51:19 PM [vite] hmr update /src/pages/Dashboard.jsx
+8:53:45 PM [vite] hmr update /src/pages/Dashboard.jsx
+8:54:11 PM [vite] hmr update /src/pages/Dashboard.jsx
+8:56:03 PM [vite] hmr update /src/pages/Dashboard.jsx
+8:57:29 PM [vite] hmr update /src/pages/Dashboard.jsx
+9:00:07 PM [vite] hmr update /src/pages/Dashboard.jsx
+9:02:34 PM [vite] hmr update /src/components/Layout.jsx
+9:03:54 PM [vite] hmr update /src/pages/Dashboard.jsx
